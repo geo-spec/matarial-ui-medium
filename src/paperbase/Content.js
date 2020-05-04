@@ -85,6 +85,3 @@ Content.propTypes = {
 
 export default withStyles(styles)(Content);
 
-
-TypeScript error in /home/geo/workspace/learn/get-start-tut-medium/react-material-ui/src/paperbase/Content.tsx(12,24):
-Cannot find module '@material-ui/icons/Search'.  TS2307
